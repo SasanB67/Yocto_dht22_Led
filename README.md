@@ -1,4 +1,6 @@
-Description: Reads temperature from a DHT22 sensor through the Linux kernel. The LED turns ON when the temperature exceeds 20°C and OFF otherwise. Required HW: Raspberrypi3-64
+Description: Reads temperature from a DHT22 sensor through the Linux kernel. The LED turns ON when the temperature exceeds 20°C and OFF otherwise. 
+
+Required HW: Raspberrypi3-64
 
 Pin connections and wiring:
 - 3.3V (physical pin 1): Connect to DHT22 VCC.
